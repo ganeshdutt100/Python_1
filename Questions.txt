@@ -1,0 +1,39 @@
+1. Positive, Negative, or Zero
+Write a program to check if a number is positive, negative, or zero.
+
+2. Even or Odd Number
+Write a program to check whether a number is even or odd.
+
+3. Leap Year Checker
+Write a program to check whether a given year is a leap year or not.
+
+4. Voting Eligibility
+Ask the user's age and check if the person is eligible to vote (age ≥ 18).
+
+5. Greatest of Two Numbers
+Take two numbers from the user and print which one is greater.
+
+6. Greatest of Three Numbers
+Take three numbers and print the greatest among them using nested if.
+
+7. Student Grade System
+Ask the user's marks and print grade using this rule:
+
+90+ → A
+
+75–89 → B
+
+60–74 → C
+
+33–59 → D
+
+Below 33 → Fail
+
+8. Check Divisibility
+Check if a number is divisible by both 3 and 5.
+
+9. Login Simulation
+Ask for username and password. If both are correct, print “Login successful”. Otherwise print specific error (wrong username or password).
+
+10. Calculator (Basic)
+Write a program that takes two numbers and an operator (+, −, *, /) from the user and performs the calculation.
