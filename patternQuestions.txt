@@ -1,0 +1,38 @@
+Question -1 Program to print half pyramid a using numbers
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+
+
+Question 2 = Program to print half pyramid using alphabets
+A
+B B
+C C C
+D D D D
+E E E E E
+
+
+Question 3 = Program to print pyramid using numbers
+        1
+      2 3 2
+    3 4 5 4 3
+  4 5 6 7 6 5 4
+5 6 7 8 9 8 7 6 5
+
+
+Question 4= Print Pascal's triangle
+           1
+         1   1
+       1   2   1
+     1   3   3    1
+   1   4   6   4   1
+ 1   5   10   10  5   1
+
+
+ Question 5 = Print Floyd's Triangle.
+1
+2 3
+4 5 6
+7 8 9 10
