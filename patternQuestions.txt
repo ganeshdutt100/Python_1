@@ -1,4 +1,4 @@
-Question -1 Program to print half pyramid a using numbers
+﻿Question -1 Program to print half pyramid a using numbers
 1
 1 2
 1 2 3
