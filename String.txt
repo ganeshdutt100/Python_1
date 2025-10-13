@@ -1,0 +1,49 @@
+
+ 🧠 Python String Questions
+
+Q1. What are the three ways to create strings in Python? Give one example for each.
+
+Q2. What will be the output of the following code?
+
+python
+text = "Python"
+print(text[2])
+print(text[-1])
+
+
+Q3. Write a Python program to print the first 5 characters and the last 5 characters of the string "ProgrammingLanguage" using slicing.
+
+Q4. What is the output of the following code?
+
+python
+text = "PythonProgramming"
+print(text[::3])
+print(text[::-1])
+
+
+Q5. Explain the difference between string concatenation and string repetition with examples.
+
+Q6. What will be the output of the following code and why?
+
+python
+text = "Hello Python"
+print("Python" in text)
+print("Java" not in text)
+
+
+Q7. Write two different ways to format this message using .format() and f-string:
+
+> My name is Riya and I am 22 years old.
+
+Q8. Write a program to convert the string "python world" to uppercase, title case, and capitalized form.
+
+Q9. What is the difference between strip(), lstrip(), and rstrip()? Give examples.
+
+Q10. Write a Python program that splits this string into a list and then joins it back with hyphens:
+
+python
+text = "apple,banana,orange"
+
+
+
+
