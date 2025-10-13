@@ -44,6 +44,3 @@ Q10. Write a Python program that splits this string into a list and then joins i
 python
 text = "apple,banana,orange"
 
-
-
-
